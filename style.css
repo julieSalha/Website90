@@ -1,0 +1,13 @@
+body{
+background-image: url(img/background.jpg);
+    text-align: center;
+    color:blue;
+    font-size: 25px;
+}
+
+marquee{
+    font-size: 40px;
+}
+
+
+
